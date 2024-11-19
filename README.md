@@ -1,2 +1,7 @@
 # C_code
-C_programm
+#include <stdio.h>
+int main(){
+printf("krishna");
+return 0;
+}
+
